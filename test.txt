@@ -1,0 +1,12 @@
+Working args combinations:
+
+test.txt
+test.txt arvhied_test.par
+test.txt.par
+test.txt.par unarvhived_test.txt
+test archived
+-u archived
+-u archived unarchived
+-a test.txt
+-a archive.par
+-a archive.par archived_twice.par
